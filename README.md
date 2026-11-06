@@ -22,14 +22,14 @@ Nassau Candy Distributor operates across 3 main product divisions (**Chocolate**
 ```text
 .
 ├── Nassau Candy Distributor.csv           # Raw Transactional Dataset
-├── step1_data_ingestion_preprocessing.py   # Step 1: Data Preprocessing & Feature Engineering
+├── data_ingestion_preprocessing.py   # Step 1: Data Preprocessing & Feature Engineering
 ├── app.py                                 # Step 2: Streamlit Interactive 6-Tab Dashboard
-├── step3_executive_insights.py            # Step 3: Strategic Action Matrix Engine
-├── step4_deployment_and_validation.py     # Step 4: End-to-End Validation & Setup Utility
+├── executive_insights.py            # Step 3: Strategic Action Matrix Engine
+├── deployment_and_validation.py     # Step 4: End-to-End Validation & Setup Utility
 ├── nassau_candy_processed.csv             # Cleaned & Enriched Dataset
 ├── nassau_candy_sku_summary.csv           # Master SKU Financial Performance Summary
 ├── nassau_candy_strategic_matrix.csv     # Strategic Decision Matrix Output
-├── step3_executive_summary_report.md      # Markdown C-Suite Strategic Report
+├── executive_summary_report.md      # Markdown C-Suite Strategic Report
 └── requirements.txt                       # Required Dependencies
 ```
 
