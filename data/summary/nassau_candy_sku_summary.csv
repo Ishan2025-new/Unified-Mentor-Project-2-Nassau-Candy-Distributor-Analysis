@@ -1,0 +1,16 @@
+Product Name,Product Division,Factory,Total_Sales,Total_Cost,Total_Profit,Total_Orders,Total_Units,Gross Margin %,Cumulative Profit,Cumulative Profit %,Pareto Category
+Wonka Bar -Scrumdiddlyumptious,Unknown,Unknown,27874.8,8517.3,19357.5,2064,0.0,69.44444444444444,19357.5,20.715881801487114,Top 80% Driver Class A
+Wonka Bar - Triple Dazzle Caramel,Unknown,Unknown,28485.0,9874.8,18610.2,2015,0.0,65.33333333333333,37967.7,40.632023013009025,Top 80% Driver Class A
+Wonka Bar - Milk Chocolate,Unknown,Unknown,26867.75,9424.38,17443.370000000003,2137,0.0,64.92307692307693,55411.07,59.299453783491074,Top 80% Driver Class A
+Wonka Bar - Nutty Crunch Surprise,Unknown,Unknown,23574.95,6755.0,16819.95,1810,0.0,71.34670487106017,72231.02,77.29971704615016,Top 80% Driver Class A
+Wonka Bar - Fudge Mallows,Unknown,Unknown,24890.4,8296.8,16593.600000000002,1818,0.0,66.66666666666667,88824.62000000001,95.05774655725214,Remaining 20% (Class B/C)
+Lickable Wallpaper,Unknown,Unknown,7860.0,3930.0,3930.0,94,0.0,50.0,92754.62000000001,99.26352806208719,Remaining 20% (Class B/C)
+Wonka Gum,Unknown,Unknown,597.5,286.8,310.7,120,0.0,52.0,93065.32,99.59603094085367,Remaining 20% (Class B/C)
+Everlasting Gobstopper,Unknown,Unknown,130.0,26.0,104.0,3,0.0,80.0,93169.32,99.7073289755872,Remaining 20% (Class B/C)
+Kazookles,Unknown,Unknown,1205.75,1113.0,92.75,96,0.0,7.6923076923076925,93262.07,99.80658755944813,Remaining 20% (Class B/C)
+Hair Toffee,Unknown,Unknown,76.5,17.0,59.5,4,0.0,77.77777777777779,93321.57,99.87026287739666,Remaining 20% (Class B/C)
+Fizzy Lifting Drinks,Unknown,Unknown,78.75,31.5,47.25,6,0.0,60.0,93368.82,99.92082857106166,Remaining 20% (Class B/C)
+Laffy Taffy,Unknown,Unknown,53.73,20.25,33.48,10,0.0,62.311557788944725,93402.3,99.95665797685857,Remaining 20% (Class B/C)
+SweeTARTS,Unknown,Unknown,61.5,32.8,28.7,10,0.0,46.666666666666664,93431.0,99.98737195375138,Remaining 20% (Class B/C)
+Nerds,Unknown,Unknown,15.0,8.0,7.0,4,0.0,46.666666666666664,93438.0,99.99486316762768,Remaining 20% (Class B/C)
+Fun Dip,Unknown,Unknown,12.0,7.2,4.8,3,0.0,40.0,93442.8,100.0,Remaining 20% (Class B/C)
