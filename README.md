@@ -22,14 +22,14 @@ Nassau Candy Distributor operates across 3 main product divisions (**Chocolate**
 ```text
 .
 ├── Nassau Candy Distributor.csv           # Raw Transactional Dataset
-├── data_ingestion_preprocessing.py   # Step 1: Data Preprocessing & Feature Engineering
+├── data_ingestion_preprocessing.py        # Step 1: Data Preprocessing & Feature Engineering
 ├── app.py                                 # Step 2: Streamlit Interactive 6-Tab Dashboard
-├── executive_insights.py            # Step 3: Strategic Action Matrix Engine
-├── deployment_and_validation.py     # Step 4: End-to-End Validation & Setup Utility
+├── executive_insights.py                  # Step 3: Strategic Action Matrix Engine
+├── deployment_and_validation.py           # Step 4: End-to-End Validation & Setup Utility
 ├── nassau_candy_processed.csv             # Cleaned & Enriched Dataset
 ├── nassau_candy_sku_summary.csv           # Master SKU Financial Performance Summary
-├── nassau_candy_strategic_matrix.csv     # Strategic Decision Matrix Output
-├── executive_summary_report.md      # Markdown C-Suite Strategic Report
+├── nassau_candy_strategic_matrix.csv      # Strategic Decision Matrix Output
+├── executive_summary_report.md            # Markdown C-Suite Strategic Report
 └── requirements.txt                       # Required Dependencies
 ```
 
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ### 2. Run Step 1: Data Preprocessing & Metric Calculation
 
 ```bash
-python step1_data_ingestion_preprocessing.py
+python data_ingestion_preprocessing.py
 ```
 *Output:* Validates raw data, performs feature engineering (`Gross Profit`, `Gross Margin %`, `Unit Price`, `Unit Cost`, `Markup %`), computes Pareto cumulative ranks, and exports `nassau_candy_processed.csv` and `nassau_candy_sku_summary.csv`.
 
@@ -63,14 +63,14 @@ streamlit run app.py
 ### 4. Run Step 3: Generate Strategic Decision Framework & C-Suite Brief
 
 ```bash
-python step3_executive_insights.py
+python executive_insights.py
 ```
 *Output:* Categorizes all 15 SKUs into strategic action buckets (**Stars 🌟**, **Cash Cows 🐮**, **Niche Performers 💎**, **High Risk / Rationalize 🔴**) and outputs `step3_executive_summary_report.md`.
 
 ### 5. Run Step 4: Pre-flight Deployment Validation
 
 ```bash
-python step4_deployment_and_validation.py
+python deployment_and_validation.py
 ```
 
 ---
